@@ -1,4 +1,4 @@
 
 
 def main():
-    print ("test install")
+    print "test install"
