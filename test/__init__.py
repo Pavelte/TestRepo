@@ -2,5 +2,5 @@
 from importlib import import_module
 
 
-def main():
+def stam():
     print "test install"
