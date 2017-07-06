@@ -11,7 +11,7 @@ dist = setup(
     zip_safe=False,
     entry_points={
         'console_scripts': [
-            'test2 = test:main'
+            'test2 = test.test2:main'
         ],
     },
 )
