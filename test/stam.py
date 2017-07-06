@@ -1,5 +1,5 @@
 import test
 
 
-def stam():
+def main():
     print "test install"
