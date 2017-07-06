@@ -4,4 +4,5 @@ dist = setup(
     name='supervisor2',
     entry_points={
         'console_scripts': ['fuck=test.tired.stam:main']},
+    packages=find_packages(),
 )
