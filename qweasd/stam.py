@@ -1,2 +1,2 @@
-def stam():
+def main():
     print "test install"
